@@ -1,0 +1,9 @@
+/assets
+/old
+.env
+/logs
+.vscode
+__pycache__
+*.h5
+/tensor_results
+/data
